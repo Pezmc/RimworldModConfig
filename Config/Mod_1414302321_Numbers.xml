@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Numbers.Numbers_Settings">
+		<maxHeight>1</maxHeight>
+		<numbersPawnTableDefs>
+			<li>Numbers_MainTable,Skills,Label,Numbers_RimWorld_SkillDef_Shooting,Numbers_RimWorld_SkillDef_Melee,Numbers_RimWorld_SkillDef_Construction,Numbers_RimWorld_SkillDef_Mining,Numbers_RimWorld_SkillDef_Cooking,Numbers_RimWorld_SkillDef_Plants,Numbers_RimWorld_SkillDef_Animals,Numbers_RimWorld_SkillDef_Crafting,Numbers_RimWorld_SkillDef_Artistic,Numbers_RimWorld_SkillDef_Medicine,Numbers_RimWorld_SkillDef_Social,Numbers_RimWorld_SkillDef_Intellectual,RemainingSpace,</li>
+		</numbersPawnTableDefs>
+	</ModSettings>
+</SettingsBlock>

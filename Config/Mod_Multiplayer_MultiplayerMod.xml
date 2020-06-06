@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Multiplayer.Client.MpSettings">
+		<username>K3YL3SS</username>
+		<serverSettings>
+			<maxPlayers>2</maxPlayers>
+			<autosaveInterval>1</autosaveInterval>
+			<direct>True</direct>
+		</serverSettings>
+	</ModSettings>
+</SettingsBlock>

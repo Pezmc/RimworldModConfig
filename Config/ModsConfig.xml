@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModsConfigData>
+  <version>1.1.2654 rev674</version>
+  <activeMods>
+    <li>brrainz.harmony</li>
+    <li>ludeon.rimworld</li>
+    <li>rwmt.multiplayer</li>
+    <li>rwmt.multiplayercompatibility</li>
+    <li>mehni.pickupandhaul</li>
+    <li>mehni.numbers</li>
+    <li>unlimitedhugs.hugslib</li>
+    <li>murmur.walllight</li>
+    <li>crlsniper.realisticrooms</li>
+    <li>frozensnowfox.filthvanisheswithrainandtime</li>
+    <li>jaxe.bubbles</li>
+    <li>tammybee.whereismyweapon</li>
+    <li>crashm.colorcodedmoodbar.11</li>
+    <li>mlie.foodalert</li>
+    <li>codeoptimist.jobsofopportunity</li>
+    <li>notfood.researchpal</li>
+    <li>falconne.heatmap</li>
+    <li>avilmask.commonsense</li>
+    <li>caesarv6.damageindicators</li>
+    <li>vanillaexpanded.vfecore</li>
+    <li>notfood.yasp</li>
+    <li>automatic.recipeicons</li>
+    <li>navyseal5.moreharvestdesignators</li>
+    <li>syrchalis.doormats</li>
+    <li>oblitus.animalslogic</li>
+    <li>revolus.animalsarefun</li>
+    <li>gt.sam.tilledsoil</li>
+    <li>krafs.levelup</li>
+    <li>compilatron.powertab</li>
+    <li>com.bymarcin.architecticons</li>
+    <li>spoonshortage.adogsaidanimalprosthetics</li>
+    <li>jaxe.rimhud</li>
+    <li>timmyliang.tradehelper</li>
+    <li>dubwise.dubsperformanceanalyzer</li>
+    <li>fluffy.desirepaths</li>
+  </activeMods>
+  <knownExpansions />
+</ModsConfigData>

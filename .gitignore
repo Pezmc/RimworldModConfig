@@ -1,0 +1,13 @@
+*.DS_Store
+ArchitectIcons/
+Config/.DS_Store
+Config/KeyPrefs.xml
+Config/Knowledge.xml
+Config/LastPlayedVersion.txt
+Config/Prefs.xml
+Config/RimHUD/
+HugsLib/LastSeenNews.xml
+HugsLib/SpottedMods.xml
+MpDesyncs/
+MpReplays/
+Saves/
